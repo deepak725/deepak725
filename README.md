@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @deepak725
 - 👀 I’m interested in software developing.
-- 🌱 I’m currently learning postgre database, cloud engineering.
+- 🌱 I’m currently learning postgresql database, cloud engineering.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
